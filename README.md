@@ -4,7 +4,7 @@
 
 ### **Computer Engineer · Full-Stack & Mobile/TV Developer · AI/ML Engineer**
 
-*Building fast, high-craft digital products and intelligent AI systems — from LLM pipelines and MCP servers to 60fps Smart TV players and cross-platform web & mobile apps.*
+*Building fast, high-craft digital products and intelligent AI systems — from multi-provider LLM pipelines and reinforcement learning agents to 60fps Smart TV applications and cross-platform web & mobile products.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_El--Shammaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaelshammaa)
 [![Email](https://img.shields.io/badge/Email-hamzahelshammaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzahelshammaa@gmail.com)
@@ -19,44 +19,50 @@
 
 I'm a Computer Science & Engineering graduate from the **German University in Cairo (GUC)** and a **Junior AI/ML Engineer at ElisaPolystar**, where I integrate LLM capabilities, benchmark & deploy local models, and architect internal RAG and data platforms.
 
-Outside of my day job, I love shipping **end-to-end products** that Obsess over both **systems performance** and **visual polish**:
-- 🧠 **AI & Agentic Systems:** Designing multi-provider LLM extraction pipelines, Model Context Protocol (MCP) servers with 99+ live tools, and Hierarchical Reinforcement Learning (PPO) agents (my Bachelor Thesis improved autonomous game strategy scores in *Freeciv* by **550%**).
-- 📱 **Web, Mobile & Living-Room TV Apps:** Shipping full-stack platforms (**Next.js 16**, **NestJS 11**, **React Native / Expo**) and 60fps D-pad-navigated Smart TV apps across **Android TV (Kotlin / Compose for TV)**, **Samsung Tizen**, and **LG webOS (SolidJS)**.
-- 🎤 **Beyond the Terminal:** Former **Coaching Lead at TEDxGUC** (led a 20-person team and coached 10 TEDx speakers) and **Best Delegation Award** winner at GUCMUN. I care deeply about clear communication, product storytelling, and clean engineering.
+Alongside my core engineering role, I partner with startups and brands to ship **end-to-end production systems** that combine **deep systems performance** with **visual polish**:
+- 🧠 **AI & Machine Learning Systems:** Designing multi-provider LLM structured extraction pipelines, cross-lingual semantic retrieval with `pgvector`, and Hierarchical Reinforcement Learning (PPO) agents (my Bachelor Thesis improved autonomous strategy scores in *Freeciv* by **550%**).
+- 📱 **Web, Mobile & Living-Room TV Engineering:** Architecting full-stack web & mobile platforms (**Next.js 16**, **NestJS 11**, **React Native / Expo**, **Supabase**) and 60fps D-pad-navigated Smart TV apps across **Android TV (Kotlin / Compose for TV)**, **Samsung Tizen**, and **LG webOS (SolidJS)**.
+- 🎤 **Leadership & Communication:** Former **Coaching Lead at TEDxGUC** (led a 20-person team and coached 10 TEDx speakers) and **Best Delegation Award** winner at GUCMUN.
 
 ---
 
-## 🚀 Featured Projects & Repositories
+## 💼 Freelance & Client Engineering Highlights *(Private / NDA)*
 
-### 🌐 Full-Stack & AI Product Platforms
+*Below is an architectural overview of commercial and client systems I have architected and delivered under NDA:*
 
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[`cv-matcher`](https://github.com/HamzaElshammaa/cv-matcher)** | **Full-Stack AI Talent & Job Matching Ecosystem** — 3-package monorepo featuring a 5-stage hybrid PDF CV ingestion pipeline (Anthropic/OpenAI/Gemini + regex fallback), in-process multilingual vector embeddings (`Xenova/multilingual-e5-base`), pgvector HNSW cosine matching, and feature-complete Web & Mobile clients. | `Next.js 16` `NestJS 11` `Expo (React Native)` `Supabase` `pgvector` `TypeScript` |
-| **[`3D-Portfolio-Website`](https://github.com/HamzaElshammaa/3D-Portfolio-Website)** | **Interactive 3D & Multi-Theme Developer Portfolio** — Dual-mode portfolio blending an interactive 3D Spline scene state machine (with hardware/FPS watchdog fallback) and a multi-theme 2D architecture. | `Next.js 16` `React 19` `Spline 3D` `Tailwind CSS 4` `Vitest` |
-| **[`xsquare-feast-menu`](https://github.com/HamzaElshammaa/xsquare-feast-menu)** | **Xsquare Artisanal Food Truck Digital Experience** — High-converting interactive digital menu and brand showcase engineered for sub-second mobile load times and fluid motion. | `React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` |
+### 1. AI-Powered Talent Acquisition & Cross-Lingual Vector Matching Ecosystem
+* **Stack:** `Next.js 16` · `NestJS 11` · `Expo (React Native)` · `Supabase (PostgreSQL 17 + pgvector)` · `HuggingFace Transformers` · `TypeScript`
+* **What I Built:**
+  * Architected a **three-package monorepo** (Web client, REST/WebSocket API backend, and cross-platform iOS/Android mobile app with full English/Arabic RTL localization and real-time translated chat).
+  * Engineered a **fault-tolerant 5-stage PDF resume ingestion pipeline** combining regex pre-extraction, Arabic-Indic normalization, and schema-enforced native PDF extraction across **Anthropic Claude, OpenAI, and Google Gemini**.
+  * Built an **in-process multilingual embedding engine** (`multilingual-e5-base`, 768-dim) paired with **PostgreSQL `pgvector` HNSW indexes** to perform cross-lingual (Arabic ↔ English) multi-vector cosine matching across candidate skills, role history, and work descriptions.
 
----
-
-### 📺 Smart TV & Cross-Platform Mobile Engineering
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[`MyPTV`](https://github.com/HamzaElshammaa/MyPTV)** | **HiPTV for Android TV & Fire TV** — High-performance IPTV player engineered for 60fps D-pad navigation on 1GB RAM devices. Features streaming M3U8/Xtream parsers, Room FTS5 search over 100k+ channels, custom Media3 + FFmpeg audio decoding, 2D virtualized EPG grid, and a Go metadata backend. | `Kotlin 2.x` `Jetpack Compose for TV` `Media3 / ExoPlayer` `FFmpeg` `Room FTS5` `Go` |
-| **[`hiptv-tv`](https://github.com/HamzaElshammaa/hiptv-tv)** | **HiPTV for Samsung Tizen & LG webOS** — Monorepo Smart TV player targeting Tizen 5.5+ and webOS 5+ (down to Chrome 68 engines), maintaining 1:1 visual and frame-time parity with the Android TV client. | `SolidJS` `TypeScript` `Tizen SDK` `webOS Luna` `Vite` |
-| **[`HiPT-Player-Website`](https://github.com/HamzaElshammaa/HiPT-Player-Website)** | **HiPTV Product Website & Interactive Web Demo** — Static marketing storefront, pricing portal, and browser-based TV player preview deployed on Cloudflare Pages. | `HTML5` `CSS3` `JavaScript` `Cloudflare Pages` |
-| **[`RamadanApp`](https://github.com/HamzaElshammaa/RamadanApp)** | **Cross-Platform Ramadan Companion App** — Mobile application for daily spiritual tracking, prayer schedules, and habits built with file-based routing and native animations. | `React Native` `Expo Router` `TypeScript` `Reanimated` |
+### 2. Cross-Platform Living-Room Smart TV Streaming Suite (Android TV, Tizen & webOS)
+* **Stack:** `Kotlin 2.x` · `Jetpack Compose for TV` · `AndroidX Media3 (ExoPlayer)` · `Custom FFmpeg NDK Extension` · `Room (SQLite FTS5)` · `SolidJS` · `Go`
+* **What I Built:**
+  * Engineered a **native Android TV & Fire TV media player** achieving **60fps D-pad remote navigation on constrained 1GB RAM devices**, featuring zero-allocation streaming playlist parsers, **Room FTS5** instant search across **100,000+ records**, a 2D virtualized Electronic Program Guide (EPG) timeline grid, and a custom **Media3 + FFmpeg audio decoder extension** (`AC3`, `E-AC3`, `TrueHD`, `DTS`).
+  * Built a companion **SolidJS + TypeScript Smart TV monorepo** targeting **Samsung Tizen 5.5+** and **LG webOS 5+** (compatible down to Chromium 68 engines over `file://`), maintaining 1:1 visual and frame-time parity with the Android TV app, backed by a Dockerized **Go** metadata aggregation service and static edge storefront.
 
 ---
 
-### 🤖 AI Agents, Developer Tooling & Automation
+## 🚀 Public Open-Source Projects & Repositories
+
+### 🌐 Web & Mobile Applications
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[`pob-mcp`](https://github.com/HamzaElshammaa/pob-mcp)** | **Path of Building MCP Server (99 Tools)** — Fork-free Model Context Protocol server with a custom LuaJIT stdio bridge that drives Path of Building's real calculation engine for live build optimization, passive tree pathfinding, anointment ranking, crafting simulation, and weighted Trade API queries. | `TypeScript` `MCP SDK` `LuaJIT` `Node.js` |
+| **[`3D-Portfolio-Website`](https://github.com/HamzaElshammaa/3D-Portfolio-Website)** | **Interactive 3D & Multi-Theme Developer Portfolio** — Dual-mode portfolio blending an interactive 3D Spline WebGL scene state machine (with hardware/FPS watchdog fallback) and a pluggable 2D multi-theme architecture. | `Next.js 16` `React 19` `Spline 3D` `Tailwind CSS 4` `Vitest` |
+| **[`xsquare-feast-menu`](https://github.com/HamzaElshammaa/xsquare-feast-menu)** | **Xsquare Artisanal Food Truck Digital Experience** — High-converting interactive digital menu and brand showcase engineered for sub-second mobile QR load times and fluid motion. | `React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` |
+| **[`RamadanApp`](https://github.com/HamzaElshammaa/RamadanApp)** | **Cross-Platform Ramadan Companion App** — Mobile application for live prayer countdowns, astronomical Hijri date calculation, and custom Adhan audio notifications. | `React Native` `Expo Router` `TypeScript` `Reanimated` |
+
+---
+
+### 🤖 AI Pipelines & Workflow Automation
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
 | **[`unimail-ai-assistant`](https://github.com/HamzaElshammaa/unimail-ai-assistant)** | **Headless AI University Email Pipeline** — Automated EWS/OWA fetcher that navigates legacy Exchange firewall restrictions, extracts structured course deadlines & urgency via Gemini/OpenAI, and dispatches alerts to Telegram and Google Calendar via n8n webhooks. | `Python` `Gemini API` `Exchange EWS` `n8n` `Telegram Bot API` |
 | **[`markitdown-pdf-ocr-pipeline`](https://github.com/HamzaElshammaa/markitdown-pdf-ocr-pipeline)** | **Vision LLM PDF-to-Markdown & Slide OCR Pipeline** — Hybrid document ingestion utility combining `pdfminer.six` sparse-text page detection with Microsoft `MarkItDown`, Google Gemini Vision, and local OpenAI-compatible LLMs. | `Python` `MarkItDown` `Gemini API` `OpenAI SDK` `PDFMiner` |
-| **[`figma-to-claude-plugin`](https://github.com/HamzaElshammaa/figma-to-claude-plugin)** | **Figma-to-AI Design Token & Frame Exporter** — Custom Figma plugins (`FigmaToJSON` & `FigmaToClaude`) that serialize top-level frames, local variables/styles, and 2x PNG renders directly from Figma's sandbox for AI-assisted UI implementation. | `TypeScript` `Figma Plugin API` `HTML5` |
 | **[`Scripting`](https://github.com/HamzaElshammaa/Scripting)** | **Automated Academic Portal Evaluation Suite** — Headless browser automation scripts that streamline repetitive university course and staff evaluation forms. | `Python` `Selenium WebDriver` |
 
 ---
@@ -72,7 +78,7 @@ Outside of my day job, I love shipping **end-to-end products** that Obsess over 
 
 ---
 
-### 🥽 Spatial Computing (AR / VR) & Systems Architecture
+### 🥽 Spatial Computing (AR / VR) & Computer Architecture
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -87,11 +93,11 @@ Outside of my day job, I love shipping **end-to-end products** that Obsess over 
 ## 🛠️ Tech Stack & Toolbox
 
 ```text
-Languages      :: TypeScript · JavaScript · Python · Kotlin · Java · Swift · C · SQL · Lua · VHDL
+Languages      :: TypeScript · JavaScript · Python · Kotlin · Java · Swift · C · SQL · VHDL
 Frontend & UI  :: Next.js 16 · React 19 · SolidJS · Tailwind CSS · Framer Motion · Three.js / Spline
 Mobile & TV    :: React Native (Expo) · Jetpack Compose for TV · Media3/ExoPlayer · Tizen · webOS · SwiftUI
 Backend & Data :: NestJS · Node.js · Go · Supabase · PostgreSQL (pgvector) · Room (SQLite FTS5) · Docker
-AI / ML        :: Anthropic / OpenAI / Gemini SDKs · Local LLMs · HuggingFace Transformers · RL (Gymnasium / SB3) · MCP
+AI / ML        :: Anthropic / OpenAI / Gemini SDKs · Local LLMs · HuggingFace Transformers · RL (Gymnasium / SB3)
 ```
 
 ---
