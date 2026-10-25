@@ -1,0 +1,436 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 115" width="100%" height="115">
+  <defs>
+    <linearGradient id="pixelGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="pixelGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <style>
+      
+    .p1-0 {
+      opacity: 0;
+      animation: anim-p1-0 10s infinite;
+    }
+    @keyframes anim-p1-0 {
+      0%, 3.24% { opacity: 0; }
+      3.25%, 50.00% { opacity: 1; }
+      50.01%, 100% { opacity: 0; }
+    }
+    .p1-1 {
+      opacity: 0;
+      animation: anim-p1-1 10s infinite;
+    }
+    @keyframes anim-p1-1 {
+      0%, 4.49% { opacity: 0; }
+      4.50%, 49.25% { opacity: 1; }
+      49.26%, 100% { opacity: 0; }
+    }
+    .p1-2 {
+      opacity: 0;
+      animation: anim-p1-2 10s infinite;
+    }
+    @keyframes anim-p1-2 {
+      0%, 5.74% { opacity: 0; }
+      5.75%, 48.50% { opacity: 1; }
+      48.51%, 100% { opacity: 0; }
+    }
+    .p1-3 {
+      opacity: 0;
+      animation: anim-p1-3 10s infinite;
+    }
+    @keyframes anim-p1-3 {
+      0%, 6.99% { opacity: 0; }
+      7.00%, 47.75% { opacity: 1; }
+      47.76%, 100% { opacity: 0; }
+    }
+    .p1-4 {
+      opacity: 0;
+      animation: anim-p1-4 10s infinite;
+    }
+    @keyframes anim-p1-4 {
+      0%, 8.24% { opacity: 0; }
+      8.25%, 47.00% { opacity: 1; }
+      47.01%, 100% { opacity: 0; }
+    }
+    .p1-5 {
+      opacity: 0;
+      animation: anim-p1-5 10s infinite;
+    }
+    @keyframes anim-p1-5 {
+      0%, 9.49% { opacity: 0; }
+      9.50%, 46.25% { opacity: 1; }
+      46.26%, 100% { opacity: 0; }
+    }
+    .p1-6 {
+      opacity: 0;
+      animation: anim-p1-6 10s infinite;
+    }
+    @keyframes anim-p1-6 {
+      0%, 10.74% { opacity: 0; }
+      10.75%, 45.50% { opacity: 1; }
+      45.51%, 100% { opacity: 0; }
+    }
+    .p1-7 {
+      opacity: 0;
+      animation: anim-p1-7 10s infinite;
+    }
+    @keyframes anim-p1-7 {
+      0%, 11.99% { opacity: 0; }
+      12.00%, 44.75% { opacity: 1; }
+      44.76%, 100% { opacity: 0; }
+    }
+    .p1-8 {
+      opacity: 0;
+      animation: anim-p1-8 10s infinite;
+    }
+    @keyframes anim-p1-8 {
+      0%, 13.24% { opacity: 0; }
+      13.25%, 44.00% { opacity: 1; }
+      44.01%, 100% { opacity: 0; }
+    }
+    .p1-9 {
+      opacity: 0;
+      animation: anim-p1-9 10s infinite;
+    }
+    @keyframes anim-p1-9 {
+      0%, 14.49% { opacity: 0; }
+      14.50%, 43.25% { opacity: 1; }
+      43.26%, 100% { opacity: 0; }
+    }
+    .p1-10 {
+      opacity: 0;
+      animation: anim-p1-10 10s infinite;
+    }
+    @keyframes anim-p1-10 {
+      0%, 15.74% { opacity: 0; }
+      15.75%, 42.50% { opacity: 1; }
+      42.51%, 100% { opacity: 0; }
+    }
+    .p1-11 {
+      opacity: 0;
+      animation: anim-p1-11 10s infinite;
+    }
+    @keyframes anim-p1-11 {
+      0%, 16.99% { opacity: 0; }
+      17.00%, 41.75% { opacity: 1; }
+      41.76%, 100% { opacity: 0; }
+    }
+    .p1-12 {
+      opacity: 0;
+      animation: anim-p1-12 10s infinite;
+    }
+    @keyframes anim-p1-12 {
+      0%, 18.24% { opacity: 0; }
+      18.25%, 41.00% { opacity: 1; }
+      41.01%, 100% { opacity: 0; }
+    }
+    .p1-13 {
+      opacity: 0;
+      animation: anim-p1-13 10s infinite;
+    }
+    @keyframes anim-p1-13 {
+      0%, 19.49% { opacity: 0; }
+      19.50%, 40.25% { opacity: 1; }
+      40.26%, 100% { opacity: 0; }
+    }
+    .p1-14 {
+      opacity: 0;
+      animation: anim-p1-14 10s infinite;
+    }
+    @keyframes anim-p1-14 {
+      0%, 20.74% { opacity: 0; }
+      20.75%, 39.50% { opacity: 1; }
+      39.51%, 100% { opacity: 0; }
+    }
+    .p1-15 {
+      opacity: 0;
+      animation: anim-p1-15 10s infinite;
+    }
+    @keyframes anim-p1-15 {
+      0%, 21.99% { opacity: 0; }
+      22.00%, 38.75% { opacity: 1; }
+      38.76%, 100% { opacity: 0; }
+    }
+    .p2-0 {
+      opacity: 0;
+      animation: anim-p2-0 10s infinite;
+    }
+    @keyframes anim-p2-0 {
+      0%, 53.32% { opacity: 0; }
+      53.33%, 96.00% { opacity: 1; }
+      96.01%, 100% { opacity: 0; }
+    }
+    .p2-1 {
+      opacity: 0;
+      animation: anim-p2-1 10s infinite;
+    }
+    @keyframes anim-p2-1 {
+      0%, 54.66% { opacity: 0; }
+      54.67%, 95.17% { opacity: 1; }
+      95.18%, 100% { opacity: 0; }
+    }
+    .p2-2 {
+      opacity: 0;
+      animation: anim-p2-2 10s infinite;
+    }
+    @keyframes anim-p2-2 {
+      0%, 55.99% { opacity: 0; }
+      56.00%, 94.33% { opacity: 1; }
+      94.34%, 100% { opacity: 0; }
+    }
+    .p2-3 {
+      opacity: 0;
+      animation: anim-p2-3 10s infinite;
+    }
+    @keyframes anim-p2-3 {
+      0%, 57.32% { opacity: 0; }
+      57.33%, 93.50% { opacity: 1; }
+      93.51%, 100% { opacity: 0; }
+    }
+    .p2-4 {
+      opacity: 0;
+      animation: anim-p2-4 10s infinite;
+    }
+    @keyframes anim-p2-4 {
+      0%, 58.66% { opacity: 0; }
+      58.67%, 92.67% { opacity: 1; }
+      92.68%, 100% { opacity: 0; }
+    }
+    .p2-5 {
+      opacity: 0;
+      animation: anim-p2-5 10s infinite;
+    }
+    @keyframes anim-p2-5 {
+      0%, 59.99% { opacity: 0; }
+      60.00%, 91.83% { opacity: 1; }
+      91.84%, 100% { opacity: 0; }
+    }
+    .p2-6 {
+      opacity: 0;
+      animation: anim-p2-6 10s infinite;
+    }
+    @keyframes anim-p2-6 {
+      0%, 61.32% { opacity: 0; }
+      61.33%, 91.00% { opacity: 1; }
+      91.01%, 100% { opacity: 0; }
+    }
+    .p2-7 {
+      opacity: 0;
+      animation: anim-p2-7 10s infinite;
+    }
+    @keyframes anim-p2-7 {
+      0%, 62.66% { opacity: 0; }
+      62.67%, 90.17% { opacity: 1; }
+      90.18%, 100% { opacity: 0; }
+    }
+    .p2-8 {
+      opacity: 0;
+      animation: anim-p2-8 10s infinite;
+    }
+    @keyframes anim-p2-8 {
+      0%, 63.99% { opacity: 0; }
+      64.00%, 89.33% { opacity: 1; }
+      89.34%, 100% { opacity: 0; }
+    }
+    .p2-9 {
+      opacity: 0;
+      animation: anim-p2-9 10s infinite;
+    }
+    @keyframes anim-p2-9 {
+      0%, 65.32% { opacity: 0; }
+      65.33%, 88.50% { opacity: 1; }
+      88.51%, 100% { opacity: 0; }
+    }
+    .p2-10 {
+      opacity: 0;
+      animation: anim-p2-10 10s infinite;
+    }
+    @keyframes anim-p2-10 {
+      0%, 66.66% { opacity: 0; }
+      66.67%, 87.67% { opacity: 1; }
+      87.68%, 100% { opacity: 0; }
+    }
+    .p2-11 {
+      opacity: 0;
+      animation: anim-p2-11 10s infinite;
+    }
+    @keyframes anim-p2-11 {
+      0%, 67.99% { opacity: 0; }
+      68.00%, 86.83% { opacity: 1; }
+      86.84%, 100% { opacity: 0; }
+    }
+      .cursor-move {
+        animation: move-cursor 10s infinite;
+      }
+      .cursor-blink {
+        animation: blink 0.55s step-end infinite;
+      }
+      @keyframes move-cursor {
+        0%, 2.00% { transform: translateX(115px); }
+3.24% { transform: translateX(115px); }
+3.25% { transform: translateX(157px); }
+4.49% { transform: translateX(157px); }
+4.50% { transform: translateX(199px); }
+5.74% { transform: translateX(199px); }
+5.75% { transform: translateX(241px); }
+6.99% { transform: translateX(241px); }
+7.00% { transform: translateX(283px); }
+8.24% { transform: translateX(283px); }
+8.25% { transform: translateX(325px); }
+9.49% { transform: translateX(325px); }
+9.50% { transform: translateX(367px); }
+10.74% { transform: translateX(367px); }
+10.75% { transform: translateX(409px); }
+11.99% { transform: translateX(409px); }
+12.00% { transform: translateX(451px); }
+13.24% { transform: translateX(451px); }
+13.25% { transform: translateX(493px); }
+14.49% { transform: translateX(493px); }
+14.50% { transform: translateX(535px); }
+15.74% { transform: translateX(535px); }
+15.75% { transform: translateX(577px); }
+16.99% { transform: translateX(577px); }
+17.00% { transform: translateX(619px); }
+18.24% { transform: translateX(619px); }
+18.25% { transform: translateX(661px); }
+19.49% { transform: translateX(661px); }
+19.50% { transform: translateX(703px); }
+20.74% { transform: translateX(703px); }
+20.75% { transform: translateX(745px); }
+21.99% { transform: translateX(745px); }
+22.00% { transform: translateX(787px); }
+38.00% { transform: translateX(787px); }
+38.74% { transform: translateX(787px); }
+38.75% { transform: translateX(745px); }
+39.49% { transform: translateX(745px); }
+39.50% { transform: translateX(703px); }
+40.24% { transform: translateX(703px); }
+40.25% { transform: translateX(661px); }
+40.99% { transform: translateX(661px); }
+41.00% { transform: translateX(619px); }
+41.74% { transform: translateX(619px); }
+41.75% { transform: translateX(577px); }
+42.49% { transform: translateX(577px); }
+42.50% { transform: translateX(535px); }
+43.24% { transform: translateX(535px); }
+43.25% { transform: translateX(493px); }
+43.99% { transform: translateX(493px); }
+44.00% { transform: translateX(451px); }
+44.74% { transform: translateX(451px); }
+44.75% { transform: translateX(409px); }
+45.49% { transform: translateX(409px); }
+45.50% { transform: translateX(367px); }
+46.24% { transform: translateX(367px); }
+46.25% { transform: translateX(325px); }
+46.99% { transform: translateX(325px); }
+47.00% { transform: translateX(283px); }
+47.74% { transform: translateX(283px); }
+47.75% { transform: translateX(241px); }
+48.49% { transform: translateX(241px); }
+48.50% { transform: translateX(199px); }
+49.24% { transform: translateX(199px); }
+49.25% { transform: translateX(157px); }
+49.99% { transform: translateX(157px); }
+50.00% { transform: translateX(115px); }
+52.00% { transform: translateX(115px); }
+53.32% { transform: translateX(115px); }
+53.33% { transform: translateX(157px); }
+54.66% { transform: translateX(157px); }
+54.67% { transform: translateX(199px); }
+55.99% { transform: translateX(199px); }
+56.00% { transform: translateX(241px); }
+57.32% { transform: translateX(241px); }
+57.33% { transform: translateX(283px); }
+58.66% { transform: translateX(283px); }
+58.67% { transform: translateX(325px); }
+59.99% { transform: translateX(325px); }
+60.00% { transform: translateX(367px); }
+61.32% { transform: translateX(367px); }
+61.33% { transform: translateX(409px); }
+62.66% { transform: translateX(409px); }
+62.67% { transform: translateX(451px); }
+63.99% { transform: translateX(451px); }
+64.00% { transform: translateX(493px); }
+65.32% { transform: translateX(493px); }
+65.33% { transform: translateX(535px); }
+66.66% { transform: translateX(535px); }
+66.67% { transform: translateX(577px); }
+67.99% { transform: translateX(577px); }
+68.00% { transform: translateX(619px); }
+86.00% { transform: translateX(619px); }
+86.82% { transform: translateX(619px); }
+86.83% { transform: translateX(577px); }
+87.66% { transform: translateX(577px); }
+87.67% { transform: translateX(535px); }
+88.49% { transform: translateX(535px); }
+88.50% { transform: translateX(493px); }
+89.32% { transform: translateX(493px); }
+89.33% { transform: translateX(451px); }
+90.16% { transform: translateX(451px); }
+90.17% { transform: translateX(409px); }
+90.99% { transform: translateX(409px); }
+91.00% { transform: translateX(367px); }
+91.82% { transform: translateX(367px); }
+91.83% { transform: translateX(325px); }
+92.66% { transform: translateX(325px); }
+92.67% { transform: translateX(283px); }
+93.49% { transform: translateX(283px); }
+93.50% { transform: translateX(241px); }
+94.32% { transform: translateX(241px); }
+94.33% { transform: translateX(199px); }
+95.16% { transform: translateX(199px); }
+95.17% { transform: translateX(157px); }
+95.99% { transform: translateX(157px); }
+96.00% { transform: translateX(115px); }
+100% { transform: translateX(115px); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="852" height="107" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="26" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="5" fill="#27c93f"/>
+
+  <path d="M58,38h5v5h-5ZM64,38h5v5h-5ZM64,44h5v5h-5ZM70,44h5v5h-5ZM70,50h5v5h-5ZM76,50h5v5h-5ZM76,56h5v5h-5ZM82,56h5v5h-5ZM70,62h5v5h-5ZM76,62h5v5h-5ZM64,68h5v5h-5ZM70,68h5v5h-5ZM58,74h5v5h-5ZM64,74h5v5h-5Z" fill="#22d3ee"/>
+
+  <g class="p1-0"><path d="M118,41h5v5h-5ZM142,41h5v5h-5ZM118,47h5v5h-5ZM142,47h5v5h-5ZM118,53h5v5h-5ZM142,53h5v5h-5ZM118,59h5v5h-5ZM124,59h5v5h-5ZM130,59h5v5h-5ZM136,59h5v5h-5ZM142,59h5v5h-5ZM118,65h5v5h-5ZM142,65h5v5h-5ZM118,71h5v5h-5ZM142,71h5v5h-5ZM118,77h5v5h-5ZM142,77h5v5h-5Z" fill="#1e1b4b"/><path d="M115,38h5v5h-5ZM139,38h5v5h-5ZM115,44h5v5h-5ZM139,44h5v5h-5ZM115,50h5v5h-5ZM139,50h5v5h-5ZM115,56h5v5h-5ZM121,56h5v5h-5ZM127,56h5v5h-5ZM133,56h5v5h-5ZM139,56h5v5h-5ZM115,62h5v5h-5ZM139,62h5v5h-5ZM115,68h5v5h-5ZM139,68h5v5h-5ZM115,74h5v5h-5ZM139,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-1"><path d="M166,53h5v5h-5ZM172,53h5v5h-5ZM178,53h5v5h-5ZM184,59h5v5h-5ZM166,65h5v5h-5ZM172,65h5v5h-5ZM178,65h5v5h-5ZM184,65h5v5h-5ZM160,71h5v5h-5ZM184,71h5v5h-5ZM166,77h5v5h-5ZM172,77h5v5h-5ZM178,77h5v5h-5ZM184,77h5v5h-5Z" fill="#1e1b4b"/><path d="M163,50h5v5h-5ZM169,50h5v5h-5ZM175,50h5v5h-5ZM181,56h5v5h-5ZM163,62h5v5h-5ZM169,62h5v5h-5ZM175,62h5v5h-5ZM181,62h5v5h-5ZM157,68h5v5h-5ZM181,68h5v5h-5ZM163,74h5v5h-5ZM169,74h5v5h-5ZM175,74h5v5h-5ZM181,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-2"><path d="M202,53h5v5h-5ZM208,53h5v5h-5ZM220,53h5v5h-5ZM202,59h5v5h-5ZM214,59h5v5h-5ZM226,59h5v5h-5ZM202,65h5v5h-5ZM214,65h5v5h-5ZM226,65h5v5h-5ZM202,71h5v5h-5ZM226,71h5v5h-5ZM202,77h5v5h-5ZM226,77h5v5h-5Z" fill="#1e1b4b"/><path d="M199,50h5v5h-5ZM205,50h5v5h-5ZM217,50h5v5h-5ZM199,56h5v5h-5ZM211,56h5v5h-5ZM223,56h5v5h-5ZM199,62h5v5h-5ZM211,62h5v5h-5ZM223,62h5v5h-5ZM199,68h5v5h-5ZM223,68h5v5h-5ZM199,74h5v5h-5ZM223,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-3"><path d="M244,53h5v5h-5ZM250,53h5v5h-5ZM256,53h5v5h-5ZM262,53h5v5h-5ZM268,53h5v5h-5ZM262,59h5v5h-5ZM256,65h5v5h-5ZM250,71h5v5h-5ZM244,77h5v5h-5ZM250,77h5v5h-5ZM256,77h5v5h-5ZM262,77h5v5h-5ZM268,77h5v5h-5Z" fill="#1e1b4b"/><path d="M241,50h5v5h-5ZM247,50h5v5h-5ZM253,50h5v5h-5ZM259,50h5v5h-5ZM265,50h5v5h-5ZM259,56h5v5h-5ZM253,62h5v5h-5ZM247,68h5v5h-5ZM241,74h5v5h-5ZM247,74h5v5h-5ZM253,74h5v5h-5ZM259,74h5v5h-5ZM265,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-4"><path d="M292,53h5v5h-5ZM298,53h5v5h-5ZM304,53h5v5h-5ZM310,59h5v5h-5ZM292,65h5v5h-5ZM298,65h5v5h-5ZM304,65h5v5h-5ZM310,65h5v5h-5ZM286,71h5v5h-5ZM310,71h5v5h-5ZM292,77h5v5h-5ZM298,77h5v5h-5ZM304,77h5v5h-5ZM310,77h5v5h-5Z" fill="#1e1b4b"/><path d="M289,50h5v5h-5ZM295,50h5v5h-5ZM301,50h5v5h-5ZM307,56h5v5h-5ZM289,62h5v5h-5ZM295,62h5v5h-5ZM301,62h5v5h-5ZM307,62h5v5h-5ZM283,68h5v5h-5ZM307,68h5v5h-5ZM289,74h5v5h-5ZM295,74h5v5h-5ZM301,74h5v5h-5ZM307,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-6"><path d="M370,41h5v5h-5ZM376,41h5v5h-5ZM382,41h5v5h-5ZM388,41h5v5h-5ZM394,41h5v5h-5ZM370,47h5v5h-5ZM370,53h5v5h-5ZM370,59h5v5h-5ZM376,59h5v5h-5ZM382,59h5v5h-5ZM388,59h5v5h-5ZM370,65h5v5h-5ZM370,71h5v5h-5ZM370,77h5v5h-5ZM376,77h5v5h-5ZM382,77h5v5h-5ZM388,77h5v5h-5ZM394,77h5v5h-5Z" fill="#1e1b4b"/><path d="M367,38h5v5h-5ZM373,38h5v5h-5ZM379,38h5v5h-5ZM385,38h5v5h-5ZM391,38h5v5h-5ZM367,44h5v5h-5ZM367,50h5v5h-5ZM367,56h5v5h-5ZM373,56h5v5h-5ZM379,56h5v5h-5ZM385,56h5v5h-5ZM367,62h5v5h-5ZM367,68h5v5h-5ZM367,74h5v5h-5ZM373,74h5v5h-5ZM379,74h5v5h-5ZM385,74h5v5h-5ZM391,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-7"><path d="M418,41h5v5h-5ZM424,41h5v5h-5ZM424,47h5v5h-5ZM424,53h5v5h-5ZM424,59h5v5h-5ZM424,65h5v5h-5ZM424,71h5v5h-5ZM418,77h5v5h-5ZM424,77h5v5h-5ZM430,77h5v5h-5Z" fill="#1e1b4b"/><path d="M415,38h5v5h-5ZM421,38h5v5h-5ZM421,44h5v5h-5ZM421,50h5v5h-5ZM421,56h5v5h-5ZM421,62h5v5h-5ZM421,68h5v5h-5ZM415,74h5v5h-5ZM421,74h5v5h-5ZM427,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-8"><path d="M454,59h5v5h-5ZM460,59h5v5h-5ZM466,59h5v5h-5ZM472,59h5v5h-5ZM478,59h5v5h-5Z" fill="#1e1b4b"/><path d="M451,56h5v5h-5ZM457,56h5v5h-5ZM463,56h5v5h-5ZM469,56h5v5h-5ZM475,56h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-9"><path d="M502,41h5v5h-5ZM508,41h5v5h-5ZM514,41h5v5h-5ZM520,41h5v5h-5ZM496,47h5v5h-5ZM496,53h5v5h-5ZM502,59h5v5h-5ZM508,59h5v5h-5ZM514,59h5v5h-5ZM520,65h5v5h-5ZM520,71h5v5h-5ZM496,77h5v5h-5ZM502,77h5v5h-5ZM508,77h5v5h-5ZM514,77h5v5h-5Z" fill="#1e1b4b"/><path d="M499,38h5v5h-5ZM505,38h5v5h-5ZM511,38h5v5h-5ZM517,38h5v5h-5ZM493,44h5v5h-5ZM493,50h5v5h-5ZM499,56h5v5h-5ZM505,56h5v5h-5ZM511,56h5v5h-5ZM517,62h5v5h-5ZM517,68h5v5h-5ZM493,74h5v5h-5ZM499,74h5v5h-5ZM505,74h5v5h-5ZM511,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-10"><path d="M538,41h5v5h-5ZM538,47h5v5h-5ZM538,53h5v5h-5ZM550,53h5v5h-5ZM556,53h5v5h-5ZM538,59h5v5h-5ZM544,59h5v5h-5ZM562,59h5v5h-5ZM538,65h5v5h-5ZM562,65h5v5h-5ZM538,71h5v5h-5ZM562,71h5v5h-5ZM538,77h5v5h-5ZM562,77h5v5h-5Z" fill="#1e1b4b"/><path d="M535,38h5v5h-5ZM535,44h5v5h-5ZM535,50h5v5h-5ZM547,50h5v5h-5ZM553,50h5v5h-5ZM535,56h5v5h-5ZM541,56h5v5h-5ZM559,56h5v5h-5ZM535,62h5v5h-5ZM559,62h5v5h-5ZM535,68h5v5h-5ZM559,68h5v5h-5ZM535,74h5v5h-5ZM559,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-11"><path d="M586,53h5v5h-5ZM592,53h5v5h-5ZM598,53h5v5h-5ZM604,59h5v5h-5ZM586,65h5v5h-5ZM592,65h5v5h-5ZM598,65h5v5h-5ZM604,65h5v5h-5ZM580,71h5v5h-5ZM604,71h5v5h-5ZM586,77h5v5h-5ZM592,77h5v5h-5ZM598,77h5v5h-5ZM604,77h5v5h-5Z" fill="#1e1b4b"/><path d="M583,50h5v5h-5ZM589,50h5v5h-5ZM595,50h5v5h-5ZM601,56h5v5h-5ZM583,62h5v5h-5ZM589,62h5v5h-5ZM595,62h5v5h-5ZM601,62h5v5h-5ZM577,68h5v5h-5ZM601,68h5v5h-5ZM583,74h5v5h-5ZM589,74h5v5h-5ZM595,74h5v5h-5ZM601,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-12"><path d="M622,53h5v5h-5ZM628,53h5v5h-5ZM640,53h5v5h-5ZM622,59h5v5h-5ZM634,59h5v5h-5ZM646,59h5v5h-5ZM622,65h5v5h-5ZM634,65h5v5h-5ZM646,65h5v5h-5ZM622,71h5v5h-5ZM646,71h5v5h-5ZM622,77h5v5h-5ZM646,77h5v5h-5Z" fill="#1e1b4b"/><path d="M619,50h5v5h-5ZM625,50h5v5h-5ZM637,50h5v5h-5ZM619,56h5v5h-5ZM631,56h5v5h-5ZM643,56h5v5h-5ZM619,62h5v5h-5ZM631,62h5v5h-5ZM643,62h5v5h-5ZM619,68h5v5h-5ZM643,68h5v5h-5ZM619,74h5v5h-5ZM643,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-13"><path d="M664,53h5v5h-5ZM670,53h5v5h-5ZM682,53h5v5h-5ZM664,59h5v5h-5ZM676,59h5v5h-5ZM688,59h5v5h-5ZM664,65h5v5h-5ZM676,65h5v5h-5ZM688,65h5v5h-5ZM664,71h5v5h-5ZM688,71h5v5h-5ZM664,77h5v5h-5ZM688,77h5v5h-5Z" fill="#1e1b4b"/><path d="M661,50h5v5h-5ZM667,50h5v5h-5ZM679,50h5v5h-5ZM661,56h5v5h-5ZM673,56h5v5h-5ZM685,56h5v5h-5ZM661,62h5v5h-5ZM673,62h5v5h-5ZM685,62h5v5h-5ZM661,68h5v5h-5ZM685,68h5v5h-5ZM661,74h5v5h-5ZM685,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-14"><path d="M712,53h5v5h-5ZM718,53h5v5h-5ZM724,53h5v5h-5ZM730,59h5v5h-5ZM712,65h5v5h-5ZM718,65h5v5h-5ZM724,65h5v5h-5ZM730,65h5v5h-5ZM706,71h5v5h-5ZM730,71h5v5h-5ZM712,77h5v5h-5ZM718,77h5v5h-5ZM724,77h5v5h-5ZM730,77h5v5h-5Z" fill="#1e1b4b"/><path d="M709,50h5v5h-5ZM715,50h5v5h-5ZM721,50h5v5h-5ZM727,56h5v5h-5ZM709,62h5v5h-5ZM715,62h5v5h-5ZM721,62h5v5h-5ZM727,62h5v5h-5ZM703,68h5v5h-5ZM727,68h5v5h-5ZM709,74h5v5h-5ZM715,74h5v5h-5ZM721,74h5v5h-5ZM727,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p1-15"><path d="M754,53h5v5h-5ZM760,53h5v5h-5ZM766,53h5v5h-5ZM772,59h5v5h-5ZM754,65h5v5h-5ZM760,65h5v5h-5ZM766,65h5v5h-5ZM772,65h5v5h-5ZM748,71h5v5h-5ZM772,71h5v5h-5ZM754,77h5v5h-5ZM760,77h5v5h-5ZM766,77h5v5h-5ZM772,77h5v5h-5Z" fill="#1e1b4b"/><path d="M751,50h5v5h-5ZM757,50h5v5h-5ZM763,50h5v5h-5ZM769,56h5v5h-5ZM751,62h5v5h-5ZM757,62h5v5h-5ZM763,62h5v5h-5ZM769,62h5v5h-5ZM745,68h5v5h-5ZM769,68h5v5h-5ZM751,74h5v5h-5ZM757,74h5v5h-5ZM763,74h5v5h-5ZM769,74h5v5h-5Z" fill="url(#pixelGrad)"/></g>
+<g class="p2-0"><path d="M118,41h5v5h-5ZM142,41h5v5h-5ZM118,47h5v5h-5ZM142,47h5v5h-5ZM118,53h5v5h-5ZM142,53h5v5h-5ZM118,59h5v5h-5ZM124,59h5v5h-5ZM130,59h5v5h-5ZM136,59h5v5h-5ZM142,59h5v5h-5ZM118,65h5v5h-5ZM142,65h5v5h-5ZM118,71h5v5h-5ZM142,71h5v5h-5ZM118,77h5v5h-5ZM142,77h5v5h-5Z" fill="#1e1b4b"/><path d="M115,38h5v5h-5ZM139,38h5v5h-5ZM115,44h5v5h-5ZM139,44h5v5h-5ZM115,50h5v5h-5ZM139,50h5v5h-5ZM115,56h5v5h-5ZM121,56h5v5h-5ZM127,56h5v5h-5ZM133,56h5v5h-5ZM139,56h5v5h-5ZM115,62h5v5h-5ZM139,62h5v5h-5ZM115,68h5v5h-5ZM139,68h5v5h-5ZM115,74h5v5h-5ZM139,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-1"><path d="M166,53h5v5h-5ZM172,53h5v5h-5ZM178,53h5v5h-5ZM160,59h5v5h-5ZM184,59h5v5h-5ZM160,65h5v5h-5ZM166,65h5v5h-5ZM172,65h5v5h-5ZM178,65h5v5h-5ZM184,65h5v5h-5ZM160,71h5v5h-5ZM166,77h5v5h-5ZM172,77h5v5h-5ZM178,77h5v5h-5Z" fill="#1e1b4b"/><path d="M163,50h5v5h-5ZM169,50h5v5h-5ZM175,50h5v5h-5ZM157,56h5v5h-5ZM181,56h5v5h-5ZM157,62h5v5h-5ZM163,62h5v5h-5ZM169,62h5v5h-5ZM175,62h5v5h-5ZM181,62h5v5h-5ZM157,68h5v5h-5ZM163,74h5v5h-5ZM169,74h5v5h-5ZM175,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-2"><path d="M208,41h5v5h-5ZM214,41h5v5h-5ZM214,47h5v5h-5ZM214,53h5v5h-5ZM214,59h5v5h-5ZM214,65h5v5h-5ZM214,71h5v5h-5ZM208,77h5v5h-5ZM214,77h5v5h-5ZM220,77h5v5h-5Z" fill="#1e1b4b"/><path d="M205,38h5v5h-5ZM211,38h5v5h-5ZM211,44h5v5h-5ZM211,50h5v5h-5ZM211,56h5v5h-5ZM211,62h5v5h-5ZM211,68h5v5h-5ZM205,74h5v5h-5ZM211,74h5v5h-5ZM217,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-3"><path d="M250,41h5v5h-5ZM256,41h5v5h-5ZM256,47h5v5h-5ZM256,53h5v5h-5ZM256,59h5v5h-5ZM256,65h5v5h-5ZM256,71h5v5h-5ZM250,77h5v5h-5ZM256,77h5v5h-5ZM262,77h5v5h-5Z" fill="#1e1b4b"/><path d="M247,38h5v5h-5ZM253,38h5v5h-5ZM253,44h5v5h-5ZM253,50h5v5h-5ZM253,56h5v5h-5ZM253,62h5v5h-5ZM253,68h5v5h-5ZM247,74h5v5h-5ZM253,74h5v5h-5ZM259,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-4"><path d="M292,53h5v5h-5ZM298,53h5v5h-5ZM304,53h5v5h-5ZM286,59h5v5h-5ZM310,59h5v5h-5ZM286,65h5v5h-5ZM310,65h5v5h-5ZM286,71h5v5h-5ZM310,71h5v5h-5ZM292,77h5v5h-5ZM298,77h5v5h-5ZM304,77h5v5h-5Z" fill="#1e1b4b"/><path d="M289,50h5v5h-5ZM295,50h5v5h-5ZM301,50h5v5h-5ZM283,56h5v5h-5ZM307,56h5v5h-5ZM283,62h5v5h-5ZM307,62h5v5h-5ZM283,68h5v5h-5ZM307,68h5v5h-5ZM289,74h5v5h-5ZM295,74h5v5h-5ZM301,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-6"><path d="M382,41h5v5h-5ZM382,47h5v5h-5ZM370,53h5v5h-5ZM376,53h5v5h-5ZM382,53h5v5h-5ZM388,53h5v5h-5ZM394,53h5v5h-5ZM382,59h5v5h-5ZM382,65h5v5h-5ZM382,71h5v5h-5ZM388,77h5v5h-5ZM394,77h5v5h-5Z" fill="#1e1b4b"/><path d="M379,38h5v5h-5ZM379,44h5v5h-5ZM367,50h5v5h-5ZM373,50h5v5h-5ZM379,50h5v5h-5ZM385,50h5v5h-5ZM391,50h5v5h-5ZM379,56h5v5h-5ZM379,62h5v5h-5ZM379,68h5v5h-5ZM385,74h5v5h-5ZM391,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-7"><path d="M412,41h5v5h-5ZM412,47h5v5h-5ZM412,53h5v5h-5ZM424,53h5v5h-5ZM430,53h5v5h-5ZM412,59h5v5h-5ZM418,59h5v5h-5ZM436,59h5v5h-5ZM412,65h5v5h-5ZM436,65h5v5h-5ZM412,71h5v5h-5ZM436,71h5v5h-5ZM412,77h5v5h-5ZM436,77h5v5h-5Z" fill="#1e1b4b"/><path d="M409,38h5v5h-5ZM409,44h5v5h-5ZM409,50h5v5h-5ZM421,50h5v5h-5ZM427,50h5v5h-5ZM409,56h5v5h-5ZM415,56h5v5h-5ZM433,56h5v5h-5ZM409,62h5v5h-5ZM433,62h5v5h-5ZM409,68h5v5h-5ZM433,68h5v5h-5ZM409,74h5v5h-5ZM433,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-8"><path d="M460,53h5v5h-5ZM466,53h5v5h-5ZM472,53h5v5h-5ZM454,59h5v5h-5ZM478,59h5v5h-5ZM454,65h5v5h-5ZM460,65h5v5h-5ZM466,65h5v5h-5ZM472,65h5v5h-5ZM478,65h5v5h-5ZM454,71h5v5h-5ZM460,77h5v5h-5ZM466,77h5v5h-5ZM472,77h5v5h-5Z" fill="#1e1b4b"/><path d="M457,50h5v5h-5ZM463,50h5v5h-5ZM469,50h5v5h-5ZM451,56h5v5h-5ZM475,56h5v5h-5ZM451,62h5v5h-5ZM457,62h5v5h-5ZM463,62h5v5h-5ZM469,62h5v5h-5ZM475,62h5v5h-5ZM451,68h5v5h-5ZM457,74h5v5h-5ZM463,74h5v5h-5ZM469,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-9"><path d="M496,53h5v5h-5ZM508,53h5v5h-5ZM514,53h5v5h-5ZM496,59h5v5h-5ZM502,59h5v5h-5ZM520,59h5v5h-5ZM496,65h5v5h-5ZM496,71h5v5h-5ZM496,77h5v5h-5Z" fill="#1e1b4b"/><path d="M493,50h5v5h-5ZM505,50h5v5h-5ZM511,50h5v5h-5ZM493,56h5v5h-5ZM499,56h5v5h-5ZM517,56h5v5h-5ZM493,62h5v5h-5ZM493,68h5v5h-5ZM493,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-10"><path d="M544,53h5v5h-5ZM550,53h5v5h-5ZM556,53h5v5h-5ZM538,59h5v5h-5ZM562,59h5v5h-5ZM538,65h5v5h-5ZM544,65h5v5h-5ZM550,65h5v5h-5ZM556,65h5v5h-5ZM562,65h5v5h-5ZM538,71h5v5h-5ZM544,77h5v5h-5ZM550,77h5v5h-5ZM556,77h5v5h-5Z" fill="#1e1b4b"/><path d="M541,50h5v5h-5ZM547,50h5v5h-5ZM553,50h5v5h-5ZM535,56h5v5h-5ZM559,56h5v5h-5ZM535,62h5v5h-5ZM541,62h5v5h-5ZM547,62h5v5h-5ZM553,62h5v5h-5ZM559,62h5v5h-5ZM535,68h5v5h-5ZM541,74h5v5h-5ZM547,74h5v5h-5ZM553,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+<g class="p2-11"><path d="M592,41h5v5h-5ZM592,47h5v5h-5ZM592,53h5v5h-5ZM592,59h5v5h-5ZM592,65h5v5h-5ZM592,77h5v5h-5Z" fill="#1e1b4b"/><path d="M589,38h5v5h-5ZM589,44h5v5h-5ZM589,50h5v5h-5ZM589,56h5v5h-5ZM589,62h5v5h-5ZM589,74h5v5h-5Z" fill="url(#pixelGrad2)"/></g>
+
+  <g class="cursor-move">
+    <rect class="cursor-blink" x="0" y="38" width="22" height="41" fill="#38bdf8"/>
+  </g>
+</svg>
