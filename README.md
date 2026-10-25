@@ -22,7 +22,7 @@
 
 ### Main Skills
 
-[![Main Skills](https://skillicons.dev/icons?i=ts,js,py,kotlin,java,swift,c,cs,nextjs,react,solidjs,nodejs,nestjs,tailwind,html,css,postgres,supabase,sqlite,docker,git,github,unity,opengl,selenium,vscode,androidstudio&perline=9)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=ts,js,py,kotlin,java,swift,c,cs,nextjs,react,solidjs,nodejs,nestjs,spring,tailwind,html,css,postgres,supabase,mongodb,redis,elasticsearch,neo4j,sqlite,rabbitmq,docker,kubernetes,git,github,unity,opengl,selenium,vscode,androidstudio&perline=9)](https://skillicons.dev)
 
 ### AI / ML & Currently Exploring
 
@@ -49,6 +49,8 @@
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
+| **[`event-ticketing-microservices`](https://github.com/HamzaElshammaa/event-ticketing-microservices)** | **Distributed Event Ticketing Microservices Platform** — 6 Spring Boot 3 microservices with Spring Cloud Gateway, RabbitMQ Choreography Saga & compensating transactions, Resilience4j circuit breakers, polyglot persistence (5 isolated PostgreSQL DBs + MongoDB, Redis, Elasticsearch, Neo4j, Cassandra), and Kubernetes manifests. | `Java 21` `Spring Boot 3` `RabbitMQ` `Kubernetes` `PostgreSQL` `NoSQL` |
+| **[`hotel-graph-rag-assistant`](https://github.com/HamzaElshammaa/hotel-graph-rag-assistant)** | **Hybrid Graph-RAG Hotel & Visa AI Assistant + XAI** — Hospitality intelligence platform combining a Neo4j Knowledge Graph, ChromaDB & FAISS vector stores, multi-LLM orchestration (Gemini / Gemma-3 / OpenRouter) in Streamlit, and FFNN rating prediction with SHAP Explainable AI. | `Python` `Neo4j` `LangChain` `ChromaDB` `FAISS` `SHAP XAI` `Streamlit` |
 | **[`3D-Portfolio-Website`](https://github.com/HamzaElshammaa/3D-Portfolio-Website)** | **Interactive 3D & Multi-Theme Developer Portfolio** — Dual-mode portfolio blending an interactive 3D Spline WebGL scene state machine (with hardware/FPS watchdog fallback) and a pluggable 2D multi-theme architecture. | `Next.js 16` `React 19` `Spline 3D` `Tailwind 4` `Vitest` |
 | **[`xsquare-feast-menu`](https://github.com/HamzaElshammaa/xsquare-feast-menu)** | **Xsquare Artisanal Food Truck Digital Experience** — High-converting interactive digital menu and brand showcase engineered for sub-second mobile QR load times and fluid motion. | `React` `TypeScript` `Vite` `Tailwind CSS` |
 | **[`RamadanApp`](https://github.com/HamzaElshammaa/RamadanApp)** | **Cross-Platform Ramadan Companion App** — Mobile application for live prayer countdowns, astronomical Hijri date calculation, and custom Adhan audio notifications. | `React Native` `Expo Router` `TypeScript` `Reanimated` |
@@ -56,7 +58,6 @@
 | **[`markitdown-pdf-ocr-pipeline`](https://github.com/HamzaElshammaa/markitdown-pdf-ocr-pipeline)** | **Vision LLM PDF-to-Markdown & Slide OCR Pipeline** — Hybrid document ingestion utility combining `pdfminer.six` sparse-text page detection with Microsoft `MarkItDown` and Google Gemini Vision. | `Python` `MarkItDown` `Gemini Vision` `PDFMiner` |
 | **[`ddos-mitigation-pipeline`](https://github.com/HamzaElshammaa/ddos-mitigation-pipeline)** | **Real-Time DDoS Detection & Graduated Mitigation Engine** — 4-stage network security pipeline: statistical benign baseline modeling, composite Z-score anomaly detection, Token-Bucket/iptables mitigation, and a live Streamlit dashboard. | `Python` `Streamlit` `Pandas` `Docker` |
 | **[`autonomous-intersection-optimization`](https://github.com/HamzaElshammaa/autonomous-intersection-optimization)** | **Autonomous Intersection Vehicle Scheduling** — Multi-objective metaheuristic optimization comparing FCFS, Simulated Annealing (SA), and Genetic Algorithms (GA) to minimize delay and energy across conflict matrices. | `Python` `NumPy` `Jupyter` `GA / SA` |
-| **[`hotel-booking-graph-analytics`](https://github.com/HamzaElshammaa/hotel-booking-graph-analytics)** | **Hotel Booking & Review Knowledge Graph Analytics** — Relational and graph-oriented exploratory data analysis over multi-table hospitality datasets, user demographics, and sentiment reviews. | `Python` `Jupyter` `SQLite` `Pandas` |
 | **[`tactical-battle-minimax-ai`](https://github.com/HamzaElshammaa/tactical-battle-minimax-ai)** | **Turn-Based Tactical Combat Solver** — Adversarial search engine in Java implementing Minimax and Alpha-Beta Pruning over game-state trees to compute optimal combat sequences. | `Java` `Minimax` `Alpha-Beta` |
 | **[`unity-ar-battle-adventure`](https://github.com/HamzaElshammaa/unity-ar-battle-adventure)** | **Unity 6 Augmented Reality Multi-Stage Game** — Mobile AR experience built with AR Foundation & XR Interaction Toolkit featuring plane-tracked number puzzles, physics creature capture, and AR combat. | `C#` `Unity 6` `AR Foundation` `XR Toolkit` |
 | **[`phantom-range-vr-shooter`](https://github.com/HamzaElshammaa/phantom-range-vr-shooter)** | **Phantom Range VR Tactical Shooter** — Immersive Virtual Reality shooting range and training simulation with 6DoF weapon handling, reactive targets, and spatial audio. | `C#` `Unity` `XR Toolkit` `OpenXR` |
